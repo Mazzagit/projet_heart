@@ -23,7 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Chargement des données
-df = pd.read_csv("heart.csv")
+df = pd.read_csv("heart.CSV")
 model = joblib.load("model_heart.joblib")
 
 # Sidebar
