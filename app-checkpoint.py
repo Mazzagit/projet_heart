@@ -49,7 +49,7 @@ elif page == "Analyse exploratoire":
 
 # Page : Prédiction
 elif page == "Prédiction":
-    st.title(" Prédiction de Maladie Cardiaque")
+    st.title("❤️ Prédiction de Maladie Cardiaque")
     st.markdown("Entrez les données du patient :")
     
     # Saisie utilisateur
@@ -80,4 +80,3 @@ elif page == "Prédiction":
             st.info("💖 Pas de risque détecté : la personne est en bonne santé cardiaque.")
         
         st.markdown("---")
-
