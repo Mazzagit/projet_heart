@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit==1.45.1
 pandas
 numpy
@@ -6,12 +5,3 @@ matplotlib
 seaborn
 scikit-learn
 joblib
-=======
-streamlit==1.45.1
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
->>>>>>> 989cd6a96513767c50f78b17f754b0e964e827ed
